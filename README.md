@@ -7,7 +7,7 @@ It started with a very simple question:
 
 **Do I really need the decimal system to rebase a number from HEX to DOZ?**
 
-Almost every conventional solution I found followed the same path:
+Every conventional solution I found followed the same path:
 
     HEX → DEC → DOZ
 
